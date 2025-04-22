@@ -1,16 +1,16 @@
-# flutter_application_firebase
+# 지역 검색 앱
 
 A new Flutter project.
 
-## Getting Started
+## 📣 프로젝트 개요
 
-This project is a starting point for a Flutter application.
+지역 검색 앱
 
-A few resources to get you started if this is your first Flutter project:
+## 📆 프로젝트 일정
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+25/04/15 ~ 25/04/22
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 📑 주요 기능
+
+> - Naver Open Api를 활용한 지역 검색 기능
